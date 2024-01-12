@@ -1,6 +1,6 @@
 # Idealistic AI
 What we offer:
-> [Premium Minecraft Plugins]([https://example.com](https://builtbybit.com/creators/63108/)
+> [Premium Minecraft Plugins](https://builtbybit.com/creators/63108/)
 
 > AI Communication Tools ```Coming in the future```
 
