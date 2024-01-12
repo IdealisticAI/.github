@@ -1,1 +1,1 @@
-https://www.idealistic.ai
+Repository used for partly managing the GitHub profile.
