@@ -2,9 +2,9 @@
 What we offer:
 > [Premium Minecraft Plugins](https://builtbybit.com/creators/63108/)
 
-> [AI Communication Tools](https://github.com/IdealisticAI/Communication-Tools/blob/main/README.md) ```Coming in the future```
+> [AI Communication Tools](https://github.com/IdealisticAI/Communication-Tools/blob/main/README.md)
 
-> [AI Discord Bot](https://github.com/IdealisticAI/Discord-Bot/blob/main/README.md) ```Coming in the future```
+> [AI Discord Bot](https://github.com/IdealisticAI/Discord-Bot/blob/main/README.md)
 ---
 How our business operates:
 > [GitHub](https://www.idealistic.ai/github) is where you are currently and is used to notify you of our operations but also showcase a selected part of our work.
