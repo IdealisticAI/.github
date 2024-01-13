@@ -9,7 +9,7 @@ What we offer:
 How our business operates:
 > [GitHub](https://www.idealistic.ai/github) is where you are currently and is used to notify you of our operations but also showcase a selected part of our work.
 
-> [Discord](https://www.idealistic.ai/discord/exclusive) is used for communication where we also host our application so you can manage your Idealistic AI account.
+> [Discord](https://www.idealistic.ai/discord) is used for communication where we also host our application so you can manage your Idealistic AI account.
 
 > [Patreon](https://www.idealistic.ai/patreon) is used for subscription purchases where a customer pays to become a member of a tier for a while and receives benefits in exchange.
 
