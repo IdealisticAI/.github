@@ -1,20 +1,27 @@
 # Idealistic AI
-What we offer:
-> [Premium Minecraft Plugins](https://builtbybit.com/creators/63108/)
+Our products for you:
+> [AI Communication Tools](https://github.com/IdealisticAI/Communication-Tools/blob/main/README.md) Automate your business and personal communication.
 
-> [AI Communication Tools](https://github.com/IdealisticAI/Communication-Tools/blob/main/README.md)
+> [AI Discord Bot](https://github.com/IdealisticAI/Discord-Bot/blob/main/README.md) Automate your Discord Server's experience.
 
-> [AI Discord Bot](https://github.com/IdealisticAI/Discord-Bot/blob/main/README.md)
+> [Premium Minecraft Plugins](https://builtbybit.com/creators/63108/) Enhance your Minecraft server's experience.
 ---
 How our business operates:
-> [GitHub](https://www.idealistic.ai/github) is where you are currently and is used to notify you of our operations but also showcase a selected part of our work.
+> [GitHub](https://www.idealistic.ai/github) is where you are currently and is used to notify you of our operations and also showcase a selected part of our work.
 
-> [Discord](https://www.idealistic.ai/discord) is used for communication where we also host our application so you can manage your Idealistic AI account.
+> [Discord](https://www.idealistic.ai/discord) is used to host the application for managing your Idealistic AI account and for communication.
 
-> [Patreon](https://www.idealistic.ai/patreon) is used for subscription purchases where a customer pays to become a member of a tier for a while and receives benefits in exchange.
+> [Patreon](https://www.idealistic.ai/patreon), [BuiltByBit](https://builtbybit.com/creators/63108/), and [PayPal](https://www.idealistic.ai/paypal) are used for purchases.
 
-> [BuiltByBit](https://builtbybit.com/creators/63108/) is used for one-time purchases where a customer pays for certain goods and receives them upon completion.
+```In simple terms, you can find our work on GitHub, purchase through Patreon, BuiltByBit, or PayPal, and eventually use Discord to stay in touch with us and our system.```
 
-> [PayPal](https://www.idealistic.ai/paypal) is used for custom purchases where a customer pays for a certain service.
+---
+Financial Information:
+> [PayPal](https://www.idealistic.ai/paypal)
 
-```In simple terms, you can find our work on GitHub, purchase through Patreon, BuiltByBit, or PayPal, and eventually use Discord to stay in touch with us. Depending on your needs, you may need to create one or multiple accounts on these platforms.```
+> Bank
+> > IBAN: GR42 0172 1530 0051 5310 4184 935
+> > 
+> > BIC: PIRBGRAA
+> >
+> > Country: Europe, Greece
