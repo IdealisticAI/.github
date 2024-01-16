@@ -15,4 +15,6 @@ How our business operates:
 
 > [BuiltByBit](https://builtbybit.com/creators/63108/) is used for one-time purchases where a customer pays for certain goods and receives them upon completion.
 
-```In simple terms, you can find our work on GitHub, purchase through Patreon and BuiltByBit, and eventually use Discord to stay in touch with us. Depending on your needs, you may need to create one or multiple accounts on these platforms.```
+> [PayPal](https://www.idealistic.ai/paypal) is used for custom purchases where a customer pays for a certain service.
+
+```In simple terms, you can find our work on GitHub, purchase through Patreon, BuiltByBit, or PayPal, and eventually use Discord to stay in touch with us. Depending on your needs, you may need to create one or multiple accounts on these platforms.```
