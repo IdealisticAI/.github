@@ -1,4 +1,4 @@
-# Idealistic AI [Click to Access Your Account](https://www.idealistic.ai/account)
+# Idealistic AI [Click to Access Your Account Without Discord](https://www.idealistic.ai/account)
 Our products for you:
 > [AI Communication Tools](https://github.com/IdealisticAI/Communication-Tools/blob/main/README.md) Automate your business and personal communication.
 
@@ -7,9 +7,9 @@ Our products for you:
 > [Premium Minecraft Plugins](https://builtbybit.com/creators/63108/) Enhance your Minecraft server's experience.
 ---
 How our business operates:
-> [GitHub](https://www.idealistic.ai/github) is where you are currently and is used to notify you of our operations and also showcase a selected part of our work.
+> [GitHub](https://www.idealistic.ai/github) is where you are currently and is used to present our operations.
 
-> [Discord](https://www.idealistic.ai/discord) is used to host the application for managing your Idealistic AI account and for communication.
+> [Discord](https://www.idealistic.ai/discord) is used for communication and for managing your Idealistic AI account.
 
 > [Patreon](https://www.idealistic.ai/patreon), [BuiltByBit](https://builtbybit.com/creators/63108/), and [PayPal](https://www.idealistic.ai/paypal) are used for purchases.
 
