@@ -7,11 +7,11 @@
 <details>
 <summary>How we operate</summary>
   
-> [GitHub](https://www.idealistic.ai/github) is where you are currently and is used to present our operations. **(No Account Required)**
+> [GitHub](https://www.idealistic.ai/github) is where you are currently and is used to present our operations. **(No GitHub Account Required)**
 
-> [Discord](https://www.idealistic.ai/discord) is used for communication and for managing your [Idealistic AI account](https://www.idealistic.ai/account).
+> [Discord](https://www.idealistic.ai/discord) is used for communication and for managing your [Idealistic AI account](https://www.idealistic.ai/account). **(No Discord Account Required)**
 
-> [Patreon](https://www.idealistic.ai/patreon), [BuiltByBit](https://builtbybit.com/creators/63108/), and [PayPal](https://www.idealistic.ai/paypal) are used for purchases. **(Account Required)**
+> [Patreon](https://www.idealistic.ai/patreon), [BuiltByBit](https://builtbybit.com/creators/63108/), and [PayPal](https://www.idealistic.ai/paypal) are used for purchases. **(Accounts Required)**
 
 ```In simple terms, you can find our work on GitHub, purchase through Patreon, BuiltByBit, or PayPal, and eventually use Discord to stay in touch with us and our system.```
 </details>
