@@ -1,4 +1,4 @@
-# Idealistic AI
+# Idealistic AI [Click to Access Your Account](https://www.idealistic.ai/account)
 Our products for you:
 > [AI Communication Tools](https://github.com/IdealisticAI/Communication-Tools/blob/main/README.md) Automate your business and personal communication.
 
