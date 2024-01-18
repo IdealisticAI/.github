@@ -36,5 +36,5 @@
 >  
 > BIC/SWIFT: PIRBGRAA
 > 
-> Country: Europe, Greece
+> Located: Athens, Greece
 </details>
