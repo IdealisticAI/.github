@@ -2,7 +2,7 @@
 <details>
 <summary>What we are</summary>
 
-> Idealistic AI is an internet-based company that serves to use AI (Artificial Intelligence) to solve everyday problems in human lives. Our goal is to collaborate with fact-minded individuals, let them explain us their problems and have us come up with creative solutions.
+> Idealistic AI is an internet-based company that serves to use AI (Artificial Intelligence) and ML (Machine Learning) to solve everyday problems in human lives. Our goal is to collaborate with fact-minded individuals, let them explain us their problems and have us come up with creative solutions.
 </details>
 <details>
 <summary>How we operate</summary>
