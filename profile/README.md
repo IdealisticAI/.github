@@ -18,9 +18,9 @@
 <details>
 <summary>Our products</summary>
   
-> [AI Communication Tools](https://github.com/IdealisticAI/Communication-Tools/blob/main/README.md) Automate your business and personal communication.
+> [AI Communication Tools](https://github.com/IdealisticAI/.github/blob/main/products/ai_communication_tools.md) Automate your business and personal communication.
 
-> [AI Discord Bot](https://github.com/IdealisticAI/Discord-Bot/blob/main/README.md) Automate your Discord Server's experience.
+> [AI Discord Bot](https://github.com/IdealisticAI/.github/blob/main/products/ai_discord_bot.md) Automate your Discord Server's experience.
 
 > [Premium Minecraft Plugins](https://builtbybit.com/creators/63108/) Enhance your Minecraft server's experience.
 </details>
