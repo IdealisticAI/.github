@@ -1,15 +1,17 @@
-# Idealistic AI > [Register | Log In](https://www.idealistic.ai/account)
+<p align="center"><img src='https://vagdedes.com/.images/idealistic/logoCircular.png' width='100' height='100'></p> 
 
-# OUR MISSION
+# <p align="center">Idealistic AI > [Register | Log In](https://www.idealistic.ai/account)</p>      
+
+# <p align="center">OUR MISSION</p>
 > **Idealistic AI** is an **internet-based company** that **works for fact-minded customers** and **uses AI (Artificial Intelligence) and ML (Machine Learning)** to **solve their everyday problems**.
 
-# OUR PRODUCTS
+# <p align="center">OUR PRODUCTS</p>
 
 > ## [AI Communication Tools](https://www.idealistic.ai/github/reader/?path=.github/blob/main/products/ai_communication_tools.md)
 > ## [AI Discord Bot](https://www.idealistic.ai/github/reader/?path=.github/blob/main/products/ai_discord_bot.md)
 > ## [Premium Minecraft Plugins](https://builtbybit.com/creators/63108/)
 
-# E.T.C.
+# <p align="center">E.T.C.</p>
 > <details>
 > <summary>How We Operate</summary>
 >   
