@@ -1,6 +1,6 @@
 <p align="center"><img src='https://vagdedes.com/.images/idealistic/logoCircular.png' width='200' height='200'></p> 
 
-# <p align="center">Idealistic AI [Register | Log In](https://www.idealistic.ai/account)</p>      
+# <p align="center">Idealistic AI [Sign In](https://www.idealistic.ai/account)</p>      
 
 ### OUR PRODUCTS
 > ### [AI Communication Tools](https://www.idealistic.ai/github/reader/?path=.github/blob/main/products/ai_communication_tools.md)
