@@ -3,11 +3,11 @@
 # <p align="center">Idealistic AI [Sign In](https://www.idealistic.ai/account)</p>
 
 ### OUR PRODUCTS
-> ### [AI Communication Tools](https://www.idealistic.ai/github/reader/?path=.github/blob/main/products/ai_communication_tools.md)
+> ### [AI Communication Tools](https://www.idealistic.ai/github/reader/?path=products/ai_communication_tools)
 > Make everyday online communication easier, whether it is for your business or your productivity.<br>
 > **Email | SMS/MMS | Instagram | Messenger | WhatsApp | Twitter/X | Discord | Viber | Browser Notifications**
 
-> ### [AI Discord Bot](https://www.idealistic.ai/github/reader/?path=.github/blob/main/products/ai_discord_bot.md)
+> ### [AI Discord Bot](https://www.idealistic.ai/github/reader/?path=products/ai_discord_bot)
 > Tell us how you want your Discord Server to be and we will make it happen!
  
 ### MORE INFORMATION
