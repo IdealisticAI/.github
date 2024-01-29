@@ -20,7 +20,7 @@
 > > 
 > > [Discord](https://www.idealistic.ai/discord) is used for communication and for managing your [Idealistic AI account](https://www.idealistic.ai/account). **(No Discord Account Required)**
 > > 
-> > [Patreon](https://www.idealistic.ai/patreon) and [PayPal](https://www.idealistic.ai/paypal) are used for purchases. **(Accounts Required)**
+> > [Patreon](https://www.idealistic.ai/patreon) is used for purchases. **(Patreon Account Required)**
 > > </details>
 >
 > > <details>
