@@ -1,3 +1,4 @@
+<br>
 <p align="center"><img src='https://vagdedes.com/.images/idealistic/logoCircular.png' width='200' height='200'></p> 
 
 # <p align="center">Idealistic AI [Sign In](https://www.idealistic.ai/account)</p>
@@ -27,6 +28,8 @@
 > Email: contact@idealistic.ai
 >  
 > Discord: [https://www.idealistic.ai/discord](https://www.idealistic.ai/discord)
+>
+> Communication Form: [https://www.idealistic.ai/account/profile/contact](https://www.idealistic.ai/account/profile/contact)
 > </details> 
 
 > <details>
