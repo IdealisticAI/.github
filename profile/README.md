@@ -14,9 +14,7 @@
 ### MORE INFORMATION
 > <details>
 > <summary>How We Operate</summary>
->   
-> [GitHub](https://www.idealistic.ai/github) is used to present our operations to the world. **(No GitHub Account Required)**
-> 
+>    
 > [Discord](https://www.idealistic.ai/discord) is used for communication and for managing your [Idealistic AI account](https://www.idealistic.ai/account). **(No Discord Account Required)**
 > 
 > [Patreon](https://www.idealistic.ai/patreon) is used for purchases. **(Patreon Account Required)**
