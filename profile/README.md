@@ -5,7 +5,7 @@
 
 ### OUR PRODUCTS
 > ### [AI Communication Tools](https://www.idealistic.ai/github/reader/?path=products/ai_communication_tools)
-> Make everyday online communication easier, whether it is for your business or your productivity.<br>
+> Make everyday online communication easier for your business or yourself.<br>
 > **Email | SMS/MMS | Instagram | Messenger | WhatsApp | Twitter/X | Discord | Telegram | Viber | Browser Notifications**
 
 > ### [AI Discord Bot](https://www.idealistic.ai/github/reader/?path=products/ai_discord_bot)
