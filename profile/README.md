@@ -10,6 +10,9 @@
 
 > ### [AI Discord Bot](https://www.idealistic.ai/github/reader/?path=products/ai_discord_bot)
 > Tell us how you want your Discord Server to be and we will make it happen!
+
+> ### [Spartan Minecraft AntiCheat](https://www.idealistic.ai/github/reader/?repo=Spartan-AntiCheat)
+> Machine Learning cheat prevention made simple.
  
 ### MORE INFORMATION
 > <details>
