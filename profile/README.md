@@ -13,7 +13,7 @@
 > ### [Spartan Minecraft AntiCheat](https://www.idealistic.ai/github/reader/?repo=Spartan-AntiCheat)
 > Machine Learning cheat prevention made simple.
  
-### MORE INFORMATION
+### USEFUL INFORMATION
 > <details>
 > <summary>How We Operate</summary>
 > <a href="https://www.idealistic.ai/discord">Discord</a> is used for communication and for managing your <a href="https://www.idealistic.ai/account">Idealistic AI account</a>. <b>(Discord Account Required In Mobile)</b>
@@ -23,7 +23,6 @@
 
 > <details>
 > <summary>Communication Details</summary>
-> <br>
 > Email: contact@idealistic.ai
 > <br>
 > Discord: <a href="https://www.idealistic.ai/discord">https://www.idealistic.ai/discord</a>
