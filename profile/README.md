@@ -1,7 +1,7 @@
 <br>
 <p align="center"><img src='https://vagdedes.com/.images/idealistic/logoCircular.png' width='200' height='200'></p> 
 
-# <p align="center">Idealistic AI [Sign In](https://www.idealistic.ai/account)</p>
+# <div align="center">Idealistic AI [Sign In](https://www.idealistic.ai/account)</div>
 
 ### OUR PRODUCTS
 > ### [AI Communication Tools](https://www.idealistic.ai/github/reader/?path=products/ai_communication_tools)
