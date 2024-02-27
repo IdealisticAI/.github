@@ -11,7 +11,7 @@
 > Tell us how you want your Discord Server to be and we will make it happen!
 
 > ### [Spartan Minecraft AntiCheat](https://www.idealistic.ai/github/reader/?repo=Spartan-AntiCheat)
-> Machine Learning cheat prevention made simple.
+> In the mission to create & maintain the best Minecraft anti-cheat, powered by Machine Learning.
  
 ### USEFUL INFORMATION
 > <details>
