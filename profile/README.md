@@ -2,5 +2,5 @@
 
 # <div align="center">Idealistic AI
 
-<p align="center">Contact us via Email for Artificial Intelligence (AI) and Machine Learning (ML) solutions for your company. Phone & Chat communication available once work has been established between buyer and customer.</p>
+<p align="center">Contact us via Email for any kind of professional software/programming work. Phone & Chat communication available once work has been established between buyer and customer.</p>
 
