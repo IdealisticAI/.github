@@ -2,5 +2,5 @@
 
 # <div align="center">Idealistic AI
 
-<p align="center">Contact us via Email for any kind of professional software/programming work. Phone & Chat communication available once work has been established between buyer and customer.</p>
+<p align="center"><b>Idealistic AI</b> is a company that belongs to <a href="https://www.vagdedes.com/github">Vagdedes</a> for the purpose of executing professional software/programming work. Please communicate with them for more info or business inquiries.</p>
 
